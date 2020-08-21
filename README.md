@@ -1,2 +1,2 @@
 # vue-html-template
-HTML Vue Template
+VueJS as a templating language in HTML
